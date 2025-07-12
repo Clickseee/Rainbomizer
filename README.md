@@ -1,0 +1,2 @@
+# Rainbomizer
+Randomize (almost) *EVERYTHING!

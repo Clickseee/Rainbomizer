@@ -1,0 +1,13 @@
+    {
+    "id": "lsd",
+    "name": "BaLSD Trip",
+    "author": ["Nxkoo"],
+    "description": "Experience what it feels like to be in LSD IN-GAME!",
+    "prefix": "wd",
+    "main_file": "- .-. ..- .-.. -.--  -... .- .-.. .- - .-. ---.lua",
+    "badge_colour": "2e6f40",
+    "dependencies": [
+        "Steamodded (>=1.0.0~ALPHA-1225a)"
+    ],
+    "version": "1.0.0"
+}
