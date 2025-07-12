@@ -1,3 +1,5 @@
+-- CODE BY VALLKARRI
+
 local oldplaysound = play_sound
 function play_sound(sound_code, per, vol)
     if card and card.children and card.children.center then sound_code = pseudorandom_element(SMODS.Sound.obj_buffer, "seed") end

@@ -1,9 +1,9 @@
     {
-    "id": "lsd",
-    "name": "BaLSD Trip",
-    "author": ["Nxkoo"],
-    "description": "Experience what it feels like to be in LSD IN-GAME!",
-    "prefix": "wd",
+    "id": "rainbomizer",
+    "name": "Rainbomizer",
+    "author": ["Nxkoo", "vallariacat"],
+    "description": "Randomize (almost) *EVERYTHING! in-game, NOW WITH COLORS! [Code By: vallariacat]",
+    "prefix": "rbzr",
     "main_file": "- .-. ..- .-.. -.--  -... .- .-.. .- - .-. ---.lua",
     "badge_colour": "2e6f40",
     "dependencies": [
